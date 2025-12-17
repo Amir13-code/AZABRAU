@@ -49,15 +49,12 @@ export default function Footer() {
         </div>
       </div>
       <div className="w-full border-t border-[#D8C4AE] mt-10"></div>
-
       <div className="bg-[#F7E8D4] w-full py-6">
         <div className="max-w-7xl mx-auto px-6 flex items-center justify-between text-sm">
           <p>2022 Az Abrau</p>
-
           <div className="flex flex-col items-center">
             <img src="/icon/azabrau-logo.png" alt="Az Abrau" className="w-12 h-12" />
           </div>
-
           <div className="flex gap-4">
             <Link to="/privacy" className="hover:underline">
               Məxfilik Siyasəti

@@ -145,7 +145,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative z-10 h-full flex flex-col justify-center pl-8 md:pl-20 text-white max-w-xl">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
-            ŞƏRABCILIQ <br /> BİZİM İŞİMİZDİR!
+            ŞƏRABÇILIQ <br /> BİZİM İŞİMİZDİR!
           </h1>
           <p className="text-sm text-gray-200 mb-8 max-w-md">
             Lorem Ipsum is simply dummy text of the printing and typesetting
